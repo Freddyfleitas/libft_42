@@ -18,7 +18,7 @@ As we move forward with the project, the functions become increasingly challengi
 
 **Libc functions:**
 
-* Isalpha → prototype: int	ft_isalpha(int c)
+* [`ft_isalpha`](ft_isalpha.c) → prototype: int	ft_isalpha(int c)
 * Isdigit → prototype: int	ft_isdigit(int c)
 * Isalnum → prototype: int	ft_isalnum(int c)
 * Isascii → prototype: int	ft_isascii(int c)
