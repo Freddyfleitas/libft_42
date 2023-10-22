@@ -16,7 +16,7 @@ Libft marks the beginning of the path at 42 School. It consists of recreating ke
 
 As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential checklist for implementation.
 
-### Libc functions:
+#### Libc functions:
 - [ft_isalpha](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalpha.c) - Checks if it is an alphabetic character.
 - [ft_isdigit](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isdigit.c) - Checks if it is a digit.
 - [ft_isalnum](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalnum.c) - Checks if it is alphanumeric.
