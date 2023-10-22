@@ -40,6 +40,15 @@ As we move forward with the project, the functions become increasingly challengi
 - [ft_memmove](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memmove.c) - Safely copies n bytes of memory.
 - [ft_calloc](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_calloc.c) - Allocates memory and initializes it to zero.
 - [ft_strdup](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strdup.c) - Duplicates a string into a newly allocated space.
+**Additional functions:**
+- [ft_substr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_substr.c) - Creates a substring from a string.
+- [ft_strjoin](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strjoin.c) - Joins two strings into a new string.
+- [ft_strtrim](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strtrim.c) - Trims the beginning and end of a string.
+- [ft_itoa](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_itoa.c) - Converts an integer to a string.
+- [ft_split](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_split.c) - Splits a string into an array of strings.
+- [ft_strmapi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strmapi.c) - Applies a function to each character of a string.
+**Bonus functions**
+
 
 ## Contribución
 
