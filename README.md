@@ -18,7 +18,7 @@ As we move forward with the project, the functions become increasingly challengi
 
  <sub>Libc functions:
 
- - [ ]Strlen
+* Strlen
  - [ ]Isalpha
  - [ ]Isdigit
  - [ ]Isalnum
@@ -35,12 +35,12 @@ As we move forward with the project, the functions become increasingly challengi
  - [ ]Strnstr
  - [ ]Memcpy
  - [ ]Memchr
- - [ ]Memcmp
- - [ ]Atoi
- - [ ]Strlcat
- - [ ]Memmove
- - [ ]Calloc
- - [ ]Strdup
+*Memcmp
+*Atoi
+*Strlcat
+*Memmove
+*Calloc
+*Strdup
    
 ## Contribución
 
