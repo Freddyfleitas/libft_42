@@ -18,15 +18,15 @@ As we move forward with the project, the functions become increasingly challengi
 
 **Libc functions:**
 
-* Strlen -> Prototype **size_t	ft_strlen(const char *s)**
-* Isalpha
-* Isdigit
-* Isalnum
-* Isascii
-* Isprint
-* Toupper
-* Tolower
-* Memset
+* Strlen → size_t	ft_strlen(const char *s)
+* Isalpha →
+* Isdigit →
+* Isalnum →
+* Isascii →
+* Isprint →
+* Toupper →
+* Tolower →
+* Memset →
 * Bzero
 * Strlcpy
 * Strchr
