@@ -16,9 +16,9 @@ Libft marks the beginning of the path at 42 School. It consists of recreating ke
 
 As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential checklist for implementation.
 
- ###Libc functions:
+ <sub>Libc functions:
 
- - [x]Strlen
+ - [ ]Strlen
  - [ ]Isalpha
  - [ ]Isdigit
  - [ ]Isalnum
