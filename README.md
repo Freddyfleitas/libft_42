@@ -18,7 +18,7 @@ As we move forward with the project, the functions become increasingly challengi
 
  ###Libc functions:
 
- - [ ]Strlen
+ - [x]Strlen
  - [ ]Isalpha
  - [ ]Isdigit
  - [ ]Isalnum
