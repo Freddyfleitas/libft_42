@@ -2,21 +2,16 @@
 
 ![Screenshoot](https://github.com/Freddyfleitas/libft_42/blob/main/libft.png)
 
-# Nombre del Proyecto
-
-Breve descripción del proyecto y su propósito.
-
-## Instalación
+## ¿What's Libft?
 
 Instrucciones detalladas sobre cómo instalar y utilizar la librería de funciones.
 
-## Documentación
+## Libft's content
 
-- [Funciones de LibC](./libc_functions/README.md)
-- [Funciones Adicionales](./additional_functions/README.md)
-- [Funciones Bonus](./bonus_functions/README.md)
-
-## Uso
+1. Libc functions: Essential functions built into C for basic programming operations.
+2. Additional functions: Complementary functions that expand the knowledge of memory allocation.
+3. Bonus functions: Extra functions that teach about linked lists manipulation.
+## 
 
 Ejemplos de código que demuestran cómo utilizar las funciones en diferentes escenarios.
 
