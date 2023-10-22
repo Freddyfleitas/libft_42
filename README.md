@@ -18,29 +18,29 @@ As we move forward with the project, the functions become increasingly challengi
 
  ###Libc functions:
 
- - []Strlen
- - []Isalpha
- - []Isdigit
- - []Isalnum
- - []Isascii
- - []Isprint
- - []Toupper
- - []Tolower
- - []Memset
- - []Bzero
- - []Strlcpy
- - []Strchr
- - []Strrchr
- - []Strncmp
- - []Strnstr
- - []Memcpy
- - []Memchr
- - []Memcmp
- - []Atoi
- - []Strlcat
- - []Memmove
- - []Calloc
- - []Strdup
+ - [ ]Strlen
+ - [ ]Isalpha
+ - [ ]Isdigit
+ - [ ]Isalnum
+ - [ ]Isascii
+ - [ ]Isprint
+ - [ ]Toupper
+ - [ ]Tolower
+ - [ ]Memset
+ - [ ]Bzero
+ - [ ]Strlcpy
+ - [ ]Strchr
+ - [ ]Strrchr
+ - [ ]Strncmp
+ - [ ]Strnstr
+ - [ ]Memcpy
+ - [ ]Memchr
+ - [ ]Memcmp
+ - [ ]Atoi
+ - [ ]Strlcat
+ - [ ]Memmove
+ - [ ]Calloc
+ - [ ]Strdup
    
 ## Contribución
 
