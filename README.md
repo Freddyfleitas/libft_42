@@ -18,8 +18,8 @@ As we move forward with the project, the functions become increasingly challengi
 
 **Libc functions:**
 
-- [`ft_isalpha`](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalpha.c) → prototype: int	ft_isalpha(int c)
-- [ft_isdigit](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isdigit.c) → prototype: `int	ft_isdigit(int c)`
+- [`ft_isalpha`](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalpha.c) → prototype: `int	ft_isalpha(int c)`
+- [`ft_isdigit`](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isdigit.c) → prototype: `int	ft_isdigit(int c)`
 - [ft_isalnum](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalnum.c) → prototype: `int	ft_isalnum(int c)`
 - [ft_isascii](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isascii.c) → prototype: `int	ft_isascii(int c)`
 - [ft_isprint](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isprint.c) → prototype: `int	ft_isprint(int c)`
