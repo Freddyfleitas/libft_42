@@ -18,7 +18,7 @@ As we move forward with the project, the functions become increasingly challengi
 
 **Libc functions:**
 
-* Strlen
+* Strlen -> Prototype **size_t	ft_strlen(const char *s)**
 * Isalpha
 * Isdigit
 * Isalnum
@@ -41,11 +41,6 @@ As we move forward with the project, the functions become increasingly challengi
 * Memmove
 * Calloc
 * Strdup
-* 
-- [ ] Task 1
-- [ ] Task 2
-- [x] Task 3 (completed)
-- [ ] Task 4
    
 ## Contribución
 
