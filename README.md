@@ -80,6 +80,12 @@ As we move forward with the project, the functions become increasingly challengi
 | [ft_lstmap](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstmap.c) | Iterates over a list and applies a function to each element to create a new list. |
 
 
-## Contribución
+## Helpfull resources:
 
-Instrucciones sobre cómo contribuir al proyecto y cómo enviar solicitudes de extracción.
+[Return Statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition)
+[Malloc in Graphical Way](https://youtu.be/SuBch2MZpZM)
+[Calloc in Graphical Way](https://youtu.be/ygBDtH3EfNc)
+[A Smart way to resolve the Itoa](https://velog.io/@jungjaedev/ftitoa)
+[Description about how to do every function in Libft](https://42.nauman.cc/)
+[All about Linked List](https://www.simplilearn.com/tutorials/data-structure-tutorial/linked-list-in-data-structure)
+[Handbook of C (Spanish Only)](https://www.academia.edu/39583795/Manual_Imprescindible_CC_Miguel_Angel_Acera_Garcia20190615_48695_15uwkba)
