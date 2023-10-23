@@ -4,11 +4,14 @@
 
 ## Table of Contents
 
-- [¿What's Libft?](#whats-libft)
-- [Libft's content](#libfts-content)
+## Table of Contents
+
+- [What's Libft?](#whats-libft)
+- [Libft's Content](#libfts-content)
 - [Libft: From Easy to Difficult (According to me)](#libft-from-easy-to-difficult-according-to-me)
-- [Additional Functions](#additional-functions)
-- [Bonus Functions](#bonus-functions)
+  - [Additional Functions](#additional-functions)
+  - [Bonus Functions](#bonus-functions)
+
 
 ## ¿What's Libft?
 
