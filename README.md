@@ -10,7 +10,7 @@
   - [Libc Functions](#libc-functions)
   - [Additional Functions](#additional-functions)
   - [Bonus Functions](#bonus-functions)
-- [Helpfull Resources](#helpfull-resources) 
+- [Helpful Resources](#helpful-resources) 
 
 
 ## ¿What's Libft?
@@ -80,7 +80,7 @@ As we move forward with the project, the functions become increasingly challengi
 | [ft_lstiter](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstiter.c) | Iterates over a list and applies a function to each element. |
 | [ft_lstmap](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstmap.c) | Iterates over a list and applies a function to each element to create a new list. |
 
-## Helpfull resources:
+## Helpful resources:
 
 - [Libft Tester](https://github.com/xicodomingues/francinette)
 - [Understanding the Return Statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition): Explanation on how to use the return statement effectively in functions.
