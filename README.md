@@ -81,11 +81,11 @@ As we move forward with the project, the functions become increasingly challengi
 
 ## Helpfull resources:
 
-- [Return Statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition): Explanation on how to use the return statement effectively in functions.
-- [Malloc in Graphical Way](https://youtu.be/SuBch2MZpZM)
-- [Calloc in Graphical Way](https://youtu.be/ygBDtH3EfNc)
-- [A Smart way to resolve the Itoa](https://velog.io/@jungjaedev/ftitoa)
-- [Description about how to do every function in Libft](https://42.nauman.cc/)
-- [All about Linked List](https://www.simplilearn.com/tutorials/data-structure-tutorial/linked-list-in-data-structure)
-- [Handbook of C (Spanish Only)](https://www.academia.edu/39583795/Manual_Imprescindible_CC_Miguel_Angel_Acera_Garcia20190615_48695_15uwkba)
+- [Return statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition): Explanation on how to use the return statement effectively in functions.
+- [Malloc in graphical way](https://youtu.be/SuBch2MZpZM): Visual representation and explanation of how malloc works in C.
+- [Calloc in graphical way](https://youtu.be/ygBDtH3EfNc): Visual representation and explanation of how calloc works in C.
+- [A smart way to resolve the itoa](https://velog.io/@jungjaedev/ftitoa): Clever solutions for the implementation of the itoa function.
+- [Description about how to do every function in Libft](https://42.nauman.cc/): Comprehensive guide detailing the implementation process for each function in Libft.
+- [All about Linked List](https://www.simplilearn.com/tutorials/data-structure-tutorial/linked-list-in-data-structure): Detailed explanation covering all aspects of linked lists, including implementation and usage.
+- [Handbook of C](https://www.academia.edu/39583795/Manual_Imprescindible_CC_Miguel_Angel_Acera_Garcia20190615_48695_15uwkba): Extensive resource providing comprehensive information about the C programming language, available only in Spanish.
 
