@@ -17,48 +17,58 @@ Libft marks the beginning of the path at 42 School. It consists of recreating ke
 As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential checklist for implementation.
 
 **Libc functions:**
-- [ft_isalpha](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalpha.c) - Checks if it is an alphabetic character.
-- [ft_isdigit](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isdigit.c) - Checks if it is a digit.
-- [ft_isalnum](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalnum.c) - Checks if it is alphanumeric.
-- [ft_isascii](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isascii.c) - Checks if it is an ASCII character.
-- [ft_isprint](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isprint.c) - Checks if it is a printable character.
-- [ft_toupper](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_toupper.c) - Converts a character to uppercase.
-- [ft_tolower](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_tolower.c) - Converts a character to lowercase.
-- [ft_strlen](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strlen.c) - Calculates the length of a string.
-- [ft_memset](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memset.c) - Fills a block of memory with a specific byte.
-- [ft_bzero](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_bzero.c) - Sets the first n bytes of memory to zero.
-- [ft_strlcpy](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strlcpy.c) - Safely copies a string.
-- [ft_strchr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strchr.c) - Finds the first occurrence of a character.
-- [ft_strrchr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strrchr.c) - Finds the last occurrence of a character.
-- [ft_strncmp](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strncmp.c) - Compares two strings up to n characters.
-- [ft_strnstr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strnstr.c) - Finds the first occurrence of a substring.
-- [ft_memcpy](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memcpy.c) - Copies n bytes of memory from one location to another.
-- [ft_memchr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memchr.c) - Finds the first occurrence of a byte.
-- [ft_memcmp](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memcmp.c) - Compares the first n bytes of memory.
-- [ft_atoi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_atoi.c) - Converts a string to an integer.
-- [ft_strlcat](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strlcat.c) - Safely concatenates strings.
-- [ft_memmove](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memmove.c) - Safely copies n bytes of memory.
-- [ft_calloc](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_calloc.c) - Allocates memory and initializes it to zero.
-- [ft_strdup](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strdup.c) - Duplicates a string into a newly allocated space.
-  
+
+| Name | Description |
+| --- | --- |
+| [ft_isalpha](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalpha.c) | Checks if it is an alphabetic character. |
+| [ft_isdigit](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isdigit.c) | Checks if it is a digit. |
+| [ft_isalnum](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalnum.c) | Checks if it is alphanumeric. |
+| [ft_isascii](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isascii.c) | Checks if it is an ASCII character. |
+| [ft_isprint](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isprint.c) | Checks if it is a printable character. |
+| [ft_toupper](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_toupper.c) | Converts a character to uppercase. |
+| [ft_tolower](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_tolower.c) | Converts a character to lowercase. |
+| [ft_strlen](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strlen.c) | Calculates the length of a string. |
+| [ft_memset](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memset.c) | Fills a block of memory with a specific byte. |
+| [ft_bzero](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_bzero.c) | Sets the first n bytes of memory to zero. |
+| [ft_strlcpy](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strlcpy.c) | Safely copies a string. |
+| [ft_strchr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strchr.c) | Finds the first occurrence of a character. |
+| [ft_strrchr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strrchr.c) | Finds the last occurrence of a character. |
+| [ft_strncmp](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strncmp.c) | Compares two strings up to n characters. |
+| [ft_strnstr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strnstr.c) | Finds the first occurrence of a substring. |
+| [ft_memcpy](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memcpy.c) | Copies n bytes of memory from one location to another. |
+| [ft_memchr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memchr.c) | Finds the first occurrence of a byte. |
+| [ft_memcmp](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memcmp.c) | Compares the first n bytes of memory. |
+| [ft_atoi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_atoi.c) | Converts a string to an integer. |
+| [ft_strlcat](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strlcat.c) | Safely concatenates strings. |
+| [ft_memmove](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memmove.c) | Safely copies n bytes of memory. |
+| [ft_calloc](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_calloc.c) | Allocates memory and initializes it to zero. |
+| [ft_strdup](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strdup.c) | Duplicates a string into a newly allocated space. |
+
 **Additional functions:**
-- [ft_substr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_substr.c) - Creates a substring from a string.
-- [ft_strjoin](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strjoin.c) - Joins two strings into a new string.
-- [ft_strtrim](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strtrim.c) - Trims the beginning and end of a string.
-- [ft_itoa](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_itoa.c) - Converts an integer to a string.
-- [ft_split](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_split.c) - Splits a string into an array of strings.
-- [ft_strmapi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strmapi.c) - Applies a function to each character of a string.
-  
-**Bonus functions**
-- [ft_lstnew](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstnew.c) - Allocates a new list element.
-- [ft_lstadd_front](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstadd_front.c) - Adds an element to the beginning of a list.
-- [ft_lstadd_back](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstadd_back.c) - Adds an element to the end of a list.
-- [ft_lstsize](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstsize.c) - Counts the number of elements in a list.
-- [ft_lstlast](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstlast.c) - Returns the last element of a list.
-- [ft_lstdelone](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstdelone.c) - Deletes a list element.
-- [ft_lstclear](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstclear.c) - Deletes all elements of a list.
-- [ft_lstiter](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstiter.c) - Iterates over a list and applies a function to each element.
-- [ft_lstmap](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstmap.c) - Iterates over a list and applies a function to each element to create a new list.
+
+| Name | Description |
+| --- | --- |
+| [ft_substr](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_substr.c) | Creates a substring from a string. |
+| [ft_strjoin](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strjoin.c) | Joins two strings into a new string. |
+| [ft_strtrim](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strtrim.c) | Trims the beginning and end of a string. |
+| [ft_itoa](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_itoa.c) | Converts an integer to a string. |
+| [ft_split](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_split.c) | Splits a string into an array of strings. |
+| [ft_strmapi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strmapi.c) | Applies a function to each character of a string. |
+
+**Bonus functions:**
+
+| Name | Description |
+| --- | --- |
+| [ft_lstnew](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstnew.c) | Allocates a new list element. |
+| [ft_lstadd_front](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstadd_front.c) | Adds an element to the beginning of a list. |
+| [ft_lstadd_back](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstadd_back.c) | Adds an element to the end of a list. |
+| [ft_lstsize](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstsize.c) | Counts the number of elements in a list. |
+| [ft_lstlast](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstlast.c) | Returns the last element of a list. |
+| [ft_lstdelone](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstdelone.c) | Deletes a list element. |
+| [ft_lstclear](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstclear.c) | Deletes all elements of a list. |
+| [ft_lstiter](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstiter.c) | Iterates over a list and applies a function to each element. |
+| [ft_lstmap](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstmap.c) | Iterates over a list and applies a function to each element to create a new list. |
+
 
 ## Contribución
 
