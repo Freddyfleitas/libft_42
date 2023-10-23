@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 - [What's Libft?](#whats-libft)
 - [Libft's Content](#libfts-content)
 - [Libft: From Easy to Difficult (According to me)](#libft-from-easy-to-difficult-according-to-me)
