@@ -82,6 +82,7 @@ As we move forward with the project, the functions become increasingly challengi
 
 ## Helpfull resources:
 
+- [Libft Tester](https://github.com/xicodomingues/francinette)
 - [Understanding the Return Statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition): Explanation on how to use the return statement effectively in functions.
 - [Visualizing Malloc](https://youtu.be/SuBch2MZpZM): Visual representation and explanation of how malloc works in C.
 - [Understanding Calloc through Graphics](https://youtu.be/ygBDtH3EfNc): Visual representation and explanation of how calloc works in C.
