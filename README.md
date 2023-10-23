@@ -2,6 +2,14 @@
 
 ![Screenshoot](https://github.com/Freddyfleitas/libft_42/blob/main/libft.png)
 
+ ## Table of Contents
+
+- [What's Libft?](#whats-libft)
+- [Libft's Content](#libfts-content)
+- [Libft: From Easy to Difficult (According to me)](#libft-from-easy-to-difficult-according-to-me)
+- [Additional Functions](#additional-functions)
+- [Bonus Functions](#bonus-functions)
+
 ## ¿What's Libft?
 
 Libft marks the beginning of the path at 42 School. It consists of recreating key functions to understand them thoroughly, and inspires us to develop our own customized functions according to our needs.
