@@ -42,10 +42,6 @@ As we move forward with the project, the functions become increasingly challengi
 | [ft_calloc](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_calloc.c) | Allocates memory and initializes it to zero. |
 | [ft_strdup](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strdup.c) | Duplicates a string into a newly allocated space. |
 
-**Bonus functions:**
-
-
-
 **Additional functions:**
 
 | Name | Description |
