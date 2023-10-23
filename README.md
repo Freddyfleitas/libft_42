@@ -2,10 +2,10 @@
 
 ![Screenshoot](https://github.com/Freddyfleitas/libft_42/blob/main/libft.png)
 
- ## Table of Contents
+## Table of Contents
 
-- [What's Libft?](#whats-libft)
-- [Libft's Content](#libfts-content)
+- [¿What's Libft?](#whats-libft)
+- [Libft's content](#libfts-content)
 - [Libft: From Easy to Difficult (According to me)](#libft-from-easy-to-difficult-according-to-me)
 - [Additional Functions](#additional-functions)
 - [Bonus Functions](#bonus-functions)
