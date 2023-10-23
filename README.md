@@ -48,8 +48,17 @@ As we move forward with the project, the functions become increasingly challengi
 - [ft_itoa](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_itoa.c) - Converts an integer to a string.
 - [ft_split](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_split.c) - Splits a string into an array of strings.
 - [ft_strmapi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strmapi.c) - Applies a function to each character of a string.
+  
 **Bonus functions**
-
+- [ft_lstnew](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstnew.c) - Allocates a new list element.
+- [ft_lstadd_front](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstadd_front.c) - Adds an element to the beginning of a list.
+- [ft_lstadd_back](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstadd_back.c) - Adds an element to the end of a list.
+- [ft_lstsize](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstsize.c) - Counts the number of elements in a list.
+- [ft_lstlast](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstlast.c) - Returns the last element of a list.
+- [ft_lstdelone](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstdelone.c) - Deletes a list element.
+- [ft_lstclear](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstclear.c) - Deletes all elements of a list.
+- [ft_lstiter](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstiter.c) - Iterates over a list and applies a function to each element.
+- [ft_lstmap](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_lstmap.c) - Iterates over a list and applies a function to each element to create a new list.
 
 ## Contribución
 
