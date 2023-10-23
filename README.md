@@ -9,6 +9,7 @@
 - [What's Libft?](#whats-libft)
 - [Libft's Content](#libfts-content)
 - [Libft: From Easy to Difficult (According to me)](#libft-from-easy-to-difficult-according-to-me)
+  - [Libc Functions](#libc-functions)
   - [Additional Functions](#additional-functions)
   - [Bonus Functions](#bonus-functions)
 
@@ -26,6 +27,8 @@ Libft marks the beginning of the path at 42 School. It consists of recreating ke
 ## Libft: From Easy to Difficult (According to me)
 
 As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential checklist for implementation.
+
+### Libc functions:
 
 | Name | Description |
 | ---- | ------ |
