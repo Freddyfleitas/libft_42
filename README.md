@@ -16,8 +16,6 @@ Libft marks the beginning of the path at 42 School. It consists of recreating ke
 
 As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential checklist for implementation.
 
-**Libc functions:**
-
 | Name | Description |
 | --- | --- |
 | [ft_isalpha](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_isalpha.c) | Checks if it is an alphabetic character. |
@@ -43,6 +41,10 @@ As we move forward with the project, the functions become increasingly challengi
 | [ft_memmove](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_memmove.c) | Safely copies n bytes of memory. |
 | [ft_calloc](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_calloc.c) | Allocates memory and initializes it to zero. |
 | [ft_strdup](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strdup.c) | Duplicates a string into a newly allocated space. |
+
+**Bonus functions:**
+
+
 
 **Additional functions:**
 
