@@ -10,6 +10,7 @@
   - [Libc Functions](#libc-functions)
   - [Additional Functions](#additional-functions)
   - [Bonus Functions](#bonus-functions)
+- [Helpfull Resources](#helpfull-resources) 
 
 
 ## ¿What's Libft?
