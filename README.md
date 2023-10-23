@@ -81,7 +81,7 @@ As we move forward with the project, the functions become increasingly challengi
 
 ## Helpfull resources:
 
-- [Return Statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition)
+- [Return Statement](https://stackoverflow.com/questions/14168057/return-statement-check-condition)Explanation on how to use the return statement effectively in functions.
 - [Malloc in Graphical Way](https://youtu.be/SuBch2MZpZM)
 - [Calloc in Graphical Way](https://youtu.be/ygBDtH3EfNc)
 - [A Smart way to resolve the Itoa](https://velog.io/@jungjaedev/ftitoa)
