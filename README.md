@@ -1,4 +1,4 @@
-# Libft - @42Madrid
+# Libft - @42Born2Code
 
 ![Screenshoot](https://github.com/Freddyfleitas/libft_42/blob/main/libft.png)
 
