@@ -24,7 +24,7 @@ Libft marks the beginning of the path at 42 School. It consists of recreating ke
 
 ## Libft: From Easy to Difficult (According to me)
 
-As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential checklist for implementation.
+As we move forward with the project, the functions become increasingly challenging. In light of this, i have proposed a sequential list for implementation.
 
 ### Libc functions:
 
