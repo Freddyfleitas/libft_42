@@ -53,7 +53,7 @@ As we move forward with the project, the functions become increasingly challengi
 | [ft_calloc](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_calloc.c) | Allocates memory and initializes it to zero. |
 | [ft_strdup](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strdup.c) | Duplicates a string into a newly allocated space. |
 
-**Additional functions:**
+### Additional functions:
 
 | Name | Description |
 | --- | --- |
@@ -64,7 +64,7 @@ As we move forward with the project, the functions become increasingly challengi
 | [ft_split](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_split.c) | Splits a string into an array of strings. |
 | [ft_strmapi](https://github.com/ffleitasl/libft_42/blob/main/libft/ft_strmapi.c) | Applies a function to each character of a string. |
 
-**Bonus functions:**
+### Bonus functions:
 
 | Name | Description |
 | --- | --- |
